@@ -1,3 +1,4 @@
+npm install
 # cd-wordpress
 continuous deployment wordpress
 
