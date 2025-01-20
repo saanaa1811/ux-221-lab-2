@@ -12,6 +12,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/post-2-sottimano-barbaresco-cotta-docg-2015-a-red-wine-masterpiece/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/post-3-discover-the-elegance-of-sottimanos-white-wines-texier-saint-julien-en-st-alban-2015/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -23,6 +33,11 @@
     <url>
         <loc>
             http://localhost:8000/wordpress-tables/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/the-wordpress-database/
         </loc>
     </url>
     <url>
