@@ -32,11 +32,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/wordpress-tables/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/the-wordpress-database/
         </loc>
     </url>
